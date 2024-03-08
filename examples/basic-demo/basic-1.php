@@ -1,6 +1,6 @@
 <?php
 
-require_once __DIR__ . '/view-helpers.php';
+require_once __DIR__ . '/../../view-helpers.php';
 
 $conteudo = f2_view_get('modals.minha-modal', [
     'aaa' => 'Valor',
